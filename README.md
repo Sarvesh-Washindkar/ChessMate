@@ -51,7 +51,6 @@ If you have any questions or need support, please reach out to us using the foll
 
 *   **Email:** [sarveshwashindkar@gmail.com](mailto:sarveshwashindkar@gmail.com)
 *   **GitHub Issues:** You can report bugs or request features on our [GitHub Issues page](https://github.com/Sarvesh-Washindkar/ChessMate/issues)
-*   **Community Forum:** Join our [community forum](https://example.com/forum) to connect with other users and get support from the community
 
 We strive to respond to all inquiries within a reasonable timeframe. Thank you for your interest in our project!
 
